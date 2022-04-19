@@ -1,0 +1,5 @@
+n1 = int (input('digite um numero '))
+d = (n1*2)
+t = (n1*3)
+rz = (n1**(1/2))
+print(f'o dobro é {d}, o triplo é {t}, e a raiz é {rz :.2f}')

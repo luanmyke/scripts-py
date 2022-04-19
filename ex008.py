@@ -1,0 +1,5 @@
+n1 = float(input('digite um valor metrico : '))
+cm = (n1 * 100)
+mm = (n1 * 1000)
+print ('o valor em cm é : ',cm)
+print('o valor em mm é : ',mm )
